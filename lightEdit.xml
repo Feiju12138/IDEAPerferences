@@ -1,10 +1,5 @@
 <application>
   <component name="LightEdit">
-    <option name="sessionFiles">
-      <list>
-        <option value="file://$USER_HOME$/GithubProjects/blog-dashboard/source/_posts/Python3学习笔记.md" />
-      </list>
-    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
