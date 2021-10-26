@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/GithubProjects/blog-new/themes/next/docs/zh-CN/README.md" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
