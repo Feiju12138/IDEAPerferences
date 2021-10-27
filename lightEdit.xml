@@ -1,12 +1,5 @@
 <application>
   <component name="LightEdit">
-    <option name="sessionFiles">
-      <list>
-        <option value="file://$USER_HOME$/GithubProjects/hexo-starter/source/_data/body-end.njk" />
-        <option value="file://$USER_HOME$/GithubProjects/hexo-starter/source/_data/sidebar.njk" />
-        <option value="file://$USER_HOME$/GithubProjects/blog-dashboard/themes/next/layout/_macro/sidebar.swig" />
-      </list>
-    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
