@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/GithubProjects/hexo/source/live2d_models/Pio/Pio.model.json" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -14,7 +19,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="0" y="25" width="1440" height="790" />
+      <frame x="395" y="25" width="1045" height="790" />
     </option>
   </component>
 </application>
