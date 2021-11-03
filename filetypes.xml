@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="all-skin" type="AUTO_DETECTED" />
       <mapping pattern="RandomChar" type="AUTO_DETECTED" />
+      <mapping pattern="allskin" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
