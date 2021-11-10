@@ -1,10 +1,5 @@
 <application>
   <component name="LightEdit">
-    <option name="sessionFiles">
-      <list>
-        <option value="file://$USER_HOME$/GithubProjects/hexo/source/live2d_models/Pio/Pio.model.json" />
-      </list>
-    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
