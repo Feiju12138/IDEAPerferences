@@ -1,5 +1,11 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/GithubProjects/hexo/source/_posts/C语言学习笔记.md" />
+        <option value="file://$USER_HOME$/GithubProjects/hexo/source/_posts/C语言的内存管理.md" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
