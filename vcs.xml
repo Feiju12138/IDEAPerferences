@@ -26,9 +26,17 @@
           <option name="url" value="https://github.com/Feiju12138/Feiju12138.github.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/lcosmos/apache-log4j-poc/tree/master" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/lcosmos/apache-log4j-poc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
+    <option name="cloneParentDir" value="$USER_HOME$/IDEAProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
