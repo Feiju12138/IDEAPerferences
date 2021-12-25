@@ -1,5 +1,11 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file:///usr/local/var/www/sqli-labs/sql-connections/sql-connect.php" />
+        <option value="file:///usr/local/var/www/sqli-labs/sql-connections/setup-db.php" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
