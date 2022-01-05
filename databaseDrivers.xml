@@ -2,7 +2,6 @@
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="mysql.8" jre-path="/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home">
       <artifact />
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
       <property name="serverTimezone" value="UTC" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL ConnectorJ/8.0.22/mysql-connector-java-8.0.22.jar</url>
@@ -10,7 +9,6 @@
     </driver>
     <driver id="mysql">
       <artifact />
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
     </driver>
   </component>
