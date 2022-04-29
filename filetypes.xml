@@ -5,6 +5,7 @@
       <mapping pattern="建表语句.sql" type="AUTO_DETECTED" />
       <mapping pattern="RandomChar" type="AUTO_DETECTED" />
       <mapping pattern="01a" type="AUTO_DETECTED" />
+      <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="Tools" type="AUTO_DETECTED" />
       <mapping pattern="allskin" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
