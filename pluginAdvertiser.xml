@@ -172,6 +172,11 @@
                       <FeaturePluginData displayName="Jetty Server" pluginName="Jetty" pluginId="Jetty" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="KickAssemblerRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Kick Assembler" pluginName="Kick Assembler (... and chew bubble gum)" pluginId="de.achimonline.kickassembler-acbg" />
+                    </value>
+                  </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
                     <value>
                       <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" />
