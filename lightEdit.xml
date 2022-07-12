@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/Desktop/new.sh" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -14,7 +19,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="0" y="25" width="1440" height="786" extendedState="6" />
+      <frame x="0" y="25" width="1440" height="790" extendedState="6" />
     </option>
   </component>
 </application>
