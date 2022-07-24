@@ -34,6 +34,10 @@
           <option name="url" value="https://gitee.com/lcosmos/apache-log4j-poc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/suyueee/htkjzhjj-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IDEAProjects" />
