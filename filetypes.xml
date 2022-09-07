@@ -15,6 +15,7 @@
       <mapping pattern="FILE_ID.DIZ" type="PLAIN_TEXT" />
       <mapping pattern=".localized" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="aspx" type="PLAIN_TEXT" />
       <mapping ext="lrc" type="PLAIN_TEXT" />
       <mapping ext="webarchive" type="PLAIN_TEXT" />
