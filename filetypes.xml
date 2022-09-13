@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="01a" type="AUTO_DETECTED" />
-      <mapping pattern="建表语句.sql" type="AUTO_DETECTED" />
-      <mapping pattern="allskin" type="AUTO_DETECTED" />
       <mapping pattern="all-skin" type="AUTO_DETECTED" />
+      <mapping pattern="建表语句.sql" type="AUTO_DETECTED" />
+      <mapping pattern="RandomChar" type="AUTO_DETECTED" />
+      <mapping pattern="01a" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="Tools" type="AUTO_DETECTED" />
-      <mapping pattern="RandomChar" type="AUTO_DETECTED" />
+      <mapping pattern="allskin" type="AUTO_DETECTED" />
       <mapping pattern=".njk" type="HTML" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
