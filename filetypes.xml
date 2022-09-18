@@ -4,6 +4,7 @@
       <mapping pattern="b" type="AUTO_DETECTED" />
       <mapping pattern="all-skin" type="AUTO_DETECTED" />
       <mapping pattern="建表语句.sql" type="AUTO_DETECTED" />
+      <mapping pattern="fast-search" type="AUTO_DETECTED" />
       <mapping pattern="RandomChar" type="AUTO_DETECTED" />
       <mapping pattern="01a" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
