@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.9 for system interpreter library">
+    <library name="Python 3.10 for brew interpreter library">
       <CLASSES>
         <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9" />
         <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload" />
