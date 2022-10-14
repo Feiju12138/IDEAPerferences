@@ -10,6 +10,7 @@
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="Tools" type="AUTO_DETECTED" />
       <mapping pattern="allskin" type="AUTO_DETECTED" />
+      <mapping ext="scpt" type="AUTO_DETECTED" />
       <mapping pattern=".njk" type="HTML" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
