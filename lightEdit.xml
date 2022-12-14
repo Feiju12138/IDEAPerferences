@@ -2,11 +2,11 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file:///Library/Receipts/InstallHistory.plist" />
+        <option value="file://$USER_HOME$/.docker/config.json" />
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="20" y="45" width="1400" height="750" />
+      <frame x="-1663" y="-924" width="1400" height="750" />
     </option>
   </component>
 </application>
