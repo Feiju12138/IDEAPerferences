@@ -101,8 +101,6 @@
     </library>
     <library name="Python 3.10 virtualenv at ~/Downloads/django interpreter library">
       <CLASSES>
-        <root url="file:///opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10" />
-        <root url="file:///opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload" />
         <root url="file://$USER_HOME$/Downloads/django/lib/python3.10/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/1977575683" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
@@ -149,8 +147,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10" />
-        <root url="file:///opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload" />
         <root url="file://$USER_HOME$/Downloads/django/lib/python3.10/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/1977575683" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
