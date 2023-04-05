@@ -1,9 +1,32 @@
 <keymap version="1" name="macOS DIY" parent="Mac OS X 10.5+">
+  <action id="ChangesView.SetDefault" />
+  <action id="ClassNameCompletion" />
+  <action id="CodeCompletion" />
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt subtract" />
+  </action>
   <action id="CopyContentRootPath">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt add" />
+  </action>
+  <action id="JupyterSelectCellAboveAction" />
+  <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodUp" />
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ShowContent" />
 </keymap>
