@@ -5,6 +5,7 @@
         <option value="" />
         <option value="file:///opt/homebrew/Cellar/go/1.19.3/libexec" />
         <option value="file:///opt/homebrew/Cellar/go/1.20.3/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.20.4/libexec" />
       </set>
     </sdk-url>
   </component>
