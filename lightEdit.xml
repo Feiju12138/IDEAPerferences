@@ -3,6 +3,7 @@
     <option name="sessionFiles">
       <list>
         <option value="file://$USER_HOME$/Downloads/my-echarts.js" />
+        <option value="file://$USER_HOME$/.go/GOENV/env" />
       </list>
     </option>
     <option name="frameInfo">
