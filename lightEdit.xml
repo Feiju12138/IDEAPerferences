@@ -1,11 +1,5 @@
 <application>
   <component name="LightEdit">
-    <option name="sessionFiles">
-      <list>
-        <option value="file://$USER_HOME$/.config/clash/config.yaml" />
-        <option value="file://$USER_HOME$/.config/clash/Sockboom的副本.yaml" />
-      </list>
-    </option>
     <option name="frameInfo">
       <frame x="0" y="25" width="1400" height="750" />
     </option>
