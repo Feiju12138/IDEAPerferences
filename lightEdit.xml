@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/Downloads/openai-translator-1.1.1.bobplugin" />
+      </list>
+    </option>
     <option name="frameInfo">
       <frame x="0" y="25" width="1400" height="750" />
     </option>
