@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="b" type="AUTO_DETECTED" />
-      <mapping pattern="all-skin" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="AUTO_DETECTED" />
+      <mapping pattern="all-skin" type="AUTO_DETECTED" />
       <mapping pattern="file" type="AUTO_DETECTED" />
       <mapping pattern="建表语句.sql" type="AUTO_DETECTED" />
       <mapping pattern="fast-search" type="AUTO_DETECTED" />
@@ -29,6 +29,7 @@
       <mapping ext="webarchive" type="PLAIN_TEXT" />
       <mapping ext="nfo" type="PLAIN_TEXT" />
       <mapping ext="keys" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="asm" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
